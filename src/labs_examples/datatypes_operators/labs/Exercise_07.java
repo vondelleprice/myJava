@@ -25,5 +25,8 @@ public class Exercise_07 {
 
         // write completed code here
 
+        double time =  days*24*60*60;
+
+        System.out.println(time);
     }
 }

@@ -13,6 +13,11 @@ public class Exercise_06 {
     public static void main(String[] args) {
 
         // write code here
+        double r = 3.14;
+        double h = 5;
+        double volume = Math.PI * Math.pow(r,2) * h;
+
+        System.out.println(volume);
 
     }
 }
