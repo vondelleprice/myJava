@@ -3,7 +3,7 @@ package labs_examples.objects_classes_methods.labs.oop.A_inheritance;
 /**
  * Run the class below and study the output. What prints and why?
  *
- * Your answer:
+ * Your answer: instant variables aren't overridden like methods are
  *
  */
 class A {

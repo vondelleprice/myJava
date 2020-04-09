@@ -1,7 +1,7 @@
 
 Without running the code below, please tell me what it will print.
 
-
+// the "child called" will be printed because it is overridden.
 
 public class InheritanceTest
 {
