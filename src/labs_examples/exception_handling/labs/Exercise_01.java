@@ -7,3 +7,12 @@ package labs_examples.exception_handling.labs;
  *
  */
 
+class Ex1 {
+    public static void main(String[] args) {
+        try{
+            double x= 2/0;
+        }catch(ArithmeticException e){
+            System.out.println("error handled");
+        }
+    }
+}
