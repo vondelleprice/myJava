@@ -21,7 +21,7 @@ class AirplaneExample{
 }
 
 
-class Airplane {
+ public class Airplane {
     AirplaneEngine engine;
     Company company;
     Size size;

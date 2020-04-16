@@ -26,6 +26,15 @@ class Airplanes{
     private String color;
     private int age;
 
+    public Airplanes(String name, String color, int age){
+        this.name=name;
+        this.color=color;
+        this.age=age;
+    }
+    public Airplanes(){
+
+    }
+
     public String getName(){return this.name;}
     public String getColor() { return this.color;}
     public int getAge() {return this.age;}
